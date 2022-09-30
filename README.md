@@ -52,5 +52,3 @@ Ensure the response is communicated to the end-user, both for success and failur
 8. Test the solution locally by running the command `npm run test`.  
 9. Refactor the solution to ensure all test cases are passing.  
 10. DO NOT MODIFY THE PROVIDED CODE, ELSE THIS MAY IMPACT THE TEST CODE EXECUTION.
-11. Zip the solution code by selecting all the files and folders **excluding the node_modules folder** and give the name same as assignment name to the zipped file.
-12. Upload the zipped solution for submission.
